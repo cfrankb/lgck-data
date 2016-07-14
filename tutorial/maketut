@@ -1,0 +1,3 @@
+rm tutorial.zip
+zip tutorial.zip *.obl *.png *.lgckdb
+ 
